@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBS新聞-TS" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞-TS
+https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
+
+#EXTINF:-1 tvg-id="TVBS新聞-斯玛特源" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-斯玛特源
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="TVBS新聞-AKTV" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-AKTV
+http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新聞-未知" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
+https://live.tvfix.org/live/tvbsnews/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新聞-4GTV" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-4GTV
+http://4gtv.korice.eu.org/li-4gtv-4gtv072/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新聞-Yihad测试" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-Yihad测试
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1-未知" tvg-name="skysportsf1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-未知
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+
+#EXTINF:-1 tvg-id="UK SKY SPORTS F1" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
+
+#EXTINF:-1 tvg-id="UK SKY SPORTS F1 (UHD/4K)" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1 (UHD/4K)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20661
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1-IPTV543" tvg-name="SKY SPORTS F1-IPTV543" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-IPTV543
+http://99.iptv543.com/smt.php?id=tiankongf1
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1-HAOYUNLAI" tvg-name="SKY SPORTS F1-HAOYUNLAI" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-HAOYUNLAI
+https://haoyunlai.serv00.net/Smartv-1.php?id=tiankongf1
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1-測試频道" tvg-name="SKY SPORTS F1-測試频道" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-測試频道
+http://xott.live:8080/01year.sarfaraz.cctv/954426736/346380
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1-AKTV" tvg-name="skysportsf1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-AKTV
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
