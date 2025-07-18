@@ -17,11 +17,9 @@ https://live.tvfix.org/live/tvbsnews/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-YH
 http://000.hfr1107.top/tv/smt.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SH
-http://61.221.215.25:8800/hls/9/index.m3u8
-
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-CNCLUB
 http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1745551415044
+
 
 #EXTINF:-1 tvg-id="UK SKY SPORTS F1" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
