@@ -5,8 +5,11 @@ https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-斯玛特源
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-斯玛特源-代理
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-斯玛特源-JUDY代理
 https://smt.520761.xyz/Smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-斯玛特源-STV代理
+https://php.946985.xyz/stv.php?id=tvbs_n
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-AKTV
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
