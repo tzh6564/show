@@ -29,9 +29,7 @@ http://000.hfr1107.top/tv/smt.php?id=tvbs_n
 
 ##########################################################
 
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml,https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
-
-#EXTINF:-1 tvg-id="6317" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
 
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1 (UHD/4K)
