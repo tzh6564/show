@@ -37,6 +37,9 @@ https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
 #EXTINF:-1 tvg-id="UK SKY SPORTS F1 (UHD/4K)" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1 (UHD/4K)
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20661
 
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1-TS" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-TS
+https://iptv.520761.xyz/judy5.php?id=tiankongf1
+
 #EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="skysportsf1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-未知
 http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 
