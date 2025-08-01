@@ -29,6 +29,7 @@ http://000.hfr1107.top/tv/smt.php?id=tvbs_n
 
 ##########################################################
 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",UK SKY SPORTS F1
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
 
