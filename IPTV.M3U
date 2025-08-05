@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞-TS内部
-https://iptv.520761.xyz/judy5.php?id=4gtv-4gtv072
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞-TS
-https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
+https://iptv.520761.xyz/judy.php?id=4gtv-4gtv072
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY代理斯玛特
 https://smt.520761.xyz/Smart.php?id=tvbs_n
@@ -59,5 +56,6 @@ http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-A1X" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-A1X
 https://a1xs.vip/2000016
+
 
 
