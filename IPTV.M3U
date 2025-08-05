@@ -24,8 +24,8 @@ http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
 https://live.tvfix.org/live/tvbsnews/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-YH
-http://000.hfr1107.top/tv/smt.php?id=tvbs_n
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-星海
+https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbs_n
 
 ##########################################################
 
@@ -59,4 +59,5 @@ http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-A1X" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-A1X
 https://a1xs.vip/2000016
+
 
