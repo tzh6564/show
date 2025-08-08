@@ -1,6 +1,6 @@
 {
-  "sites":[
-  {
+  "sites": [
+    {
       "key": "py_AiDou",
       "name": "(翻墙)(18+)AiDou(T4)",
       "type": 4,
@@ -14,7 +14,7 @@
         "ratio": 1.5
       }
     },
-	{
+    {
       "key": "py_Miss",
       "name": "(翻墙)(18+)MissAV(T4)",
       "type": 4,
@@ -24,7 +24,7 @@
       "filterable": 0,
       "changeable": 0
     },
-	{
+    {
       "key": "py_rou",
       "name": "(翻墙)(18+)Rou(T3)",
       "type": 3,
@@ -33,7 +33,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-	},
+    },
     {
       "key": "py_BadNews",
       "name": "🔞BadNews(T4)",
@@ -47,8 +47,6 @@
         "type": "rect",
         "ratio": 1.5
       }
-     ｝
-  
-  
-   ]
+    }
+  ]
 }
