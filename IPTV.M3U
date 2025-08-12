@@ -27,6 +27,8 @@ http://php.946985.xyz/i_am_tg_slow_fuck.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-星海
 https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbs_n
 
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" http-user-agent="Goiptv/8.8.8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
 ##########################################################
 
@@ -57,6 +59,7 @@ http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-HAOYUNLAI" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-HAOYUNLAI
 https://haoyunlai.serv00.net/Smartv-1.php?id=tiankongf1
+
 
 
 
