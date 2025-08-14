@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞-JUDY 4G -免梯
 https://iptv.520761.xyz/judy.php?id=4gtv-4gtv072
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 新斯玛特
 https://simate.pendy.dpdns.org/Smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 代理斯玛特
+https://smt.520761.xyz/Smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" http-user-agent="Goiptv/8.8.8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-AKTV
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
@@ -18,17 +24,6 @@ http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
 https://live.tvfix.org/live/tvbsnews/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY代理斯玛特
-https://smt.520761.xyz/Smart.php?id=tvbs_n
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JACK代理斯玛特
-http://php.946985.xyz/i_am_tg_slow_fuck.php?id=tvbs_n
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-星海
-https://jykysovpgmxs.eu-central-1.clawcloudrun.com/Smart.php?id=tvbs_n
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" http-user-agent="Goiptv/8.8.8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 
 ##########################################################
 
@@ -45,9 +40,6 @@ https://a1xs.vip/2000016
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-JUDY代理斯玛特" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-JUDY代理斯玛特
 https://smt.520761.xyz/Smart.php?id=tiankongf1
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-JACK代理斯玛特" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-JACK代理斯玛特
-https://php.946985.xyz/i_am_tg_slow_fuck.php?id=tiankongf1
-
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="SKY SPORTS F1-IPTV543" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-IPTV543
 http://99.iptv543.com/smt.php?id=tiankongf1
 
@@ -59,6 +51,7 @@ http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-HAOYUNLAI" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-HAOYUNLAI
 https://haoyunlai.serv00.net/Smartv-1.php?id=tiankongf1
+
 
 
 
