@@ -27,6 +27,8 @@ http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
 https://live.tvfix.org/live/tvbsnews/index.m3u8
 
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-新未知
+http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
 
 ##########################################################
 
@@ -72,6 +74,15 @@ https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台
 http://bxtv.3a.ink/api.php?id=wxxw
 
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-新未知
+http://php.jdshipin.com/smt.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-新未知
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-新未知
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 
 
