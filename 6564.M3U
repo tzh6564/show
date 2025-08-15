@@ -24,6 +24,9 @@ https://live.tvfix.org/live/tvbsnews/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-新未知
 http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
 
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-风云TV
+http://iptv.4666888.xyz/iptv.php?id=20168
+
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-CATVOD.COM
 https://live.catvod.com/catvod_com.php?id=tvbs_n
 
@@ -74,6 +77,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-新未知
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台
+http://iptv.4666888.xyz/iptv.php?id=20069
 
 
 
