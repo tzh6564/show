@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Johor Traffic Live Cameras</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 20px; }
+    header { display:flex; gap:12px; align-items:center; justify-content:space-between; flex-wrap:wrap; }
+    h1 { margin: 0 0 10px 0; font-size: 20px; }
+    .controls { font-size: 14px; }
+    .camera { background:#fff; border-radius:10px; padding:12px; margin-bottom:18px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+    .camera h2 { margin: 0 0 8px 0; font-size:16px; color:#222; }
+    .camera img { width:100%; height:auto; border-radius:6px; display:block; }
+    footer { margin-top: 18px; font-size:13px; color:#666; }
+    .small { font-size:13px; color:#555; }
+    label { font-size:13px; }
+    input[type="number"] { width:70px; padding:4px; margin-left:6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Johor Traffic — Live Cameras (Selected)</h1>
+      <div class="small">镜头与原站一致。图片为实时地址，通过 JS 定时更新以确保显示最新画面。</div>
+    </div>
+    <div class="controls">
+      <label>刷新间隔 (秒): <input id="intervalInput" type="number" min="5" value="30"></label>
+      <button id="applyBtn">应用</button>
+      <button id="reloadNow">立即刷新</button>
+    </div>
+  </header>
+
+  <main id="cams">
+    <!-- Cameras will be injected here -->
+  </main>
+
+  <footer>
+    数据来源：johortraffic.com。页面通过为每个 &lt;img&gt; 添加时间戳参数来避免缓存并保证为实时画面。
+  </footer>
+
+  <script>
+    // camera list found on the site (base URLs discovered from site)
+    const cameras = [
+      { name: 'L14 C1 – Permas Jaya', url: 'https://odis.sgp1.digitaloceanspaces.com/node/L14_C1_Permas_Jaya' },
+      { name: 'L14 C2 – Permas Jaya', url: 'https://odis.sgp1.digitaloceanspaces.com/node/L14_C2_Permas_Jaya' },
+      { name: 'L21 C1 – Jalan Ismail Sultan / Jalan Jim Quee', url: 'https://odis.sgp1.digitaloceanspaces.com/node/L21_C1_Jalan_Ismail_Sultan___Jalan_Jim_Quee' },
+      { name: 'L22 C1 – Jalan Jim Quee / CIQ', url: 'https://odis.sgp1.digitaloceanspaces.com/node/L22_C1_Jalan_Jim_Quee___CIQ' },
+      { name: 'L22 C2 – Jalan Jim Quee / CIQ', url: 'https://odis.sgp1.digitaloceanspaces.com/node/L22_C2_Jalan_Jim_Quee___CIQ' }
+    ];
+
+    const camsContainer = document.getElementById('cams');
+    cameras.forEach(cam => {
+      const box = document.createElement('div');
+      box.className = 'camera';
+      box.innerHTML = `
+        <h2>${cam.name}</h2>
+        <img data-base="${cam.url}" src="${cam.url}?t=${Date.now()}" alt="${cam.name}" loading="lazy">
+      `;
+      camsContainer.appendChild(box);
+    });
+
+    function reloadImages() {
+      document.querySelectorAll('img[data-base]').forEach(img => {
+        const base = img.dataset.base;
+        // add timestamp to bypass cache
+        img.src = base + '?t=' + Date.now();
+      });
+    }
+
+    // default interval 30s
+    let interval = 30 * 1000;
+    let timer = setInterval(reloadImages, interval);
+
+    document.getElementById('applyBtn').addEventListener('click', () => {
+      const v = parseInt(document.getElementById('intervalInput').value, 10);
+      if (!isFinite(v) || v < 5) {
+        alert('请输入 >= 5 秒的刷新间隔');
+        return;
+      }
+      clearInterval(timer);
+      interval = v * 1000;
+      timer = setInterval(reloadImages, interval);
+    });
+
+    document.getElementById('reloadNow').addEventListener('click', reloadImages);
+  </script>
+</body>
+</html>
