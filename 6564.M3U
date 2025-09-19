@@ -8,7 +8,7 @@ http://85.237.206.96:50057/4gtv-4gtv072/index.m3u8?proxy=true
 http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
-https://neibu.pendy.dpdns.org/Smart.php?id=tvbs_n
+https://iptv.vip-tptv.xyz/live/encrypted/YzMyY2FjODljZTJmMGIxYjEyMGU3YTNkZTA3OWI5Njg6NjRhODllYTcxNjE5M2MwNThhNTllMWI1ZmVkNTQ4NzBiODJlMDYzMTI5NTk3MTVjZTQ3Mzc0NzIwOTJjYTFjNzA4N2JjZWNiZTJiZDRjNzM0OGRhZDg2NDE3ZGFlMmIyYTRlNWEyMTVlNjdjNWJjNzM0NDZiODcxMzBmMDc2MGQyODQzYjZhY2M1ZDQ1OTgyZjU0MjQ3ODliMDhjYWRiZDdhMGY3MmM3NWEyZjJjZGUwZDM1NjEzNTA1ZmFhMGRmNTNmOTcwMTViNTczYzhiNDUzYTZmZTEzMGNkNjhhMzBlNDE1N2ZmMTRjZjIwN2Y3Yzc4ZmExZDk2YzdmODA5YjgwNzNmZDc1ZTMzMTIwYjQyOWRlZGVkMzYzZTJhMzgxMzc4YTU1ZDEzZDJkNWZhZWU0Y2M1NmRjMjQwZjQ5NzMxYjM3Y2Y0MDlkYjRiMTEwZDM1YzhmY2E0ZmRiMzAzNg?username=tg_p9i083cz
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-TV543 SMT
 http://tv543.cc/Smart.php?id=tiankongf1id=tvbs_n
@@ -102,6 +102,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-风云TV
 http://iptv.4666888.xyz/iptv.php?id=20069
+
 
 
 
