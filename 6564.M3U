@@ -73,8 +73,8 @@ https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry
 https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1758256202&token=853266f29963af9417ec7428fe2d46b5
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-FHD MAVIN521" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-FHD MAVIN521
 https://kong.pp.ua/iptv/live1.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1758256264&token=4d8acfc9c0dd2328a6db9dfd6f92ee2a
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-FHD MAVIN521" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-FHD MAVIN521
-https://kong.pp.ua/iptv/live1.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1758256264&token=c0453c7089cf1c6c966e0f747a75f24f
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-HUPU" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-HUPU
+https://gg.poocloud.in/skyf1/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
@@ -102,6 +102,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-风云TV
 http://iptv.4666888.xyz/iptv.php?id=20069
+
 
 
 
