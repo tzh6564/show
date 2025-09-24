@@ -22,7 +22,7 @@ http://iptv.4666888.xyz/iptv.php?id=20168
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
 https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-未知
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT
 http://154.9.232.236/mlTW33856.php?id=tvbs_n
 
 ##########################################################
@@ -91,11 +91,12 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-JULI
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-未知
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-SMT
+http://154.9.232.236/mlTW33856.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-风云TV
 http://iptv.4666888.xyz/iptv.php?id=20069
+
 
 
 
