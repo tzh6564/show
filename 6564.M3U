@@ -4,14 +4,11 @@
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP
 http://85.237.206.96:50057/4gtv-4gtv072/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-4GTV (梯)
-http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
-
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-4GTV
 https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv072
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-JUDY 斯玛特
-https://iptv.vip-tptv.xyz/live/encrypted/YzMyY2FjODljZTJmMGIxYjEyMGU3YTNkZTA3OWI5Njg6NjRhODllYTcxNjE5M2MwNThhNTllMWI1ZmVkNTQ4NzBiODJlMDYzMTI5NTk3MTVjZTQ3Mzc0NzIwOTJjYTFjNzA4N2JjZWNiZTJiZDRjNzM0OGRhZDg2NDE3ZGFlMmIyYTRlNWEyMTVlNjdjNWJjNzM0NDZiODcxMzBmMDc2MGQyODQzYjZhY2M1ZDQ1OTgyZjU0MjQ3ODliMDhjYWRiZDdhMGY3MmM3NWEyZjJjZGUwZDM1NjEzNTA1ZmFhMGRmNTNmOTcwMTViNTczYzhiNDUzYTZmZTEzMGNkNjhhMzBlNDE1N2ZmMTRjZjIwN2Y3Yzc4ZmExZDk2YzdmODA5YjgwNzNmZDc1ZTMzMTIwYjQyOWRlZGVkMzYzZTJhMzgxMzc4YTU1ZDEzZDJkNWZhZWU0Y2M1NmRjMjQwZjQ5NzMxYjM3Y2Y0MDlkYjRiMTEwZDM1YzhmY2E0ZmRiMzAzNg?username=tg_p9i083cz
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-4GTV (梯)
+http://4gtv.korice.eu.org/4gtv-4gtv072/index.m3u8
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-TV543 SMT
 http://tv543.cc/Smart.php?id=tvbs_n
@@ -19,18 +16,24 @@ http://tv543.cc/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-TV123 SMT
 http://tv123.vvvv.ee//tv.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台 (梯)
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
-
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT
 http://154.9.232.236/mlTW33856.php?id=tvbs_n
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT
 http://47.91.17.126:20002/Smartv.php?id=tvbs_n
 
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台 (梯)
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
+
 ##########################################################
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-1080p" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-1080p
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-UHD" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-UHD
+https://7pal.short.gy/SSF1uhd
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-TV543 SMT" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-TV543 SMT
 http://tv543.cc/Smart.php?id=tiankongf1
@@ -41,11 +44,8 @@ http://tv123.vvvv.ee//tv.php?id=tiankongf1
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-SMT" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-SMT
 http://154.9.232.236/mlTW33856.php?id=tiankongf1
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-1080p" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-1080p
-https://7pal.short.gy/ssportsf1
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1 (UHD/4K)
-https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-SMT" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-SMT
+http://47.91.17.126:20002/Smartv.php?id=tiankongf1
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-FHD" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-FHD
 https://omg.pendy.dpdns.org/4wVQA7/625159/35244
@@ -73,17 +73,23 @@ https://iptv.vip-tptv.xyz/live/encrypted/ZGNkNDk5ZDYyMDFhYzJjOWRiNDg0N2FkZmNmNTY
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-FHD JUDY" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-FHD JUDY
 https://iptv.vip-tptv.xyz/live/encrypted/ZTA4ZGVlOTY1YTlkMjg1ZDBjMzhiMzU1ZWYzMWIzYTg6MThmNjdmNGQ2MjI4NGRjNWNiY2FlY2MyNDlmZGNiYWRhN2VhYzY5NzEzNWYxMTE1MTdjOGY4MGRkNWE0NWFhZGQ2NTk4MjQ4NjVhY2VjYWU0YzYxMDhiMTE5MmMwZjFkZmVjZDEwMTc5MzcwNjg0OGY5YjcxZDI5MjE0NzNjMTdmNmY5YThjNGZhOWI4NDNjYjhjOGVlMTNhOWRkODk2MmM0YTUxM2JiYWE1YmQ3NmMyNjAzMGZhZTIwYzFmYmYwMDA3ZTg2MjQxMDIyYzVhNmUzMmQ0ZDdmY2IzNmU3N2JkYWNlZmE4ZDZhNDZkMDhhYjU0NTZkZjAyMjJkOThmODVkMWFhMmVmMTZjY2M4NTBkMmNiNTJjODdkMmI3M2I4MDBkYjQ4NmUyMWQyY2Q0Y2Q2OTAwMzM5ZTU1MzY2NWZjMGVmNjY3ZjA0M2JiYTEwYzU1ZGRiNDRiMTRmZTRhNg?username=tg_p9i083cz
 
-##EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1
+##EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1 (失效)
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1 4K
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1 4K (失效)
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20661
 
 
 ##########################################################
 
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-JUDY 斯玛特
-https://neibu.pendy.dpdns.org/Smart.php?id=inews_twn
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台-SMT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-SMT
+http://154.9.232.236/mlTW33856.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台-TV123 SMT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-TV123 SMT
+http://tv123.vvvv.ee//tv.php?id=inews_twn
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台-SMT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-SMT
+http://47.91.17.126:20002/Smartv.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-冰雪TV
 http://bxtv.3a.ink/api.php?id=wxxw
@@ -94,11 +100,12 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-JULI
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-SMT
-http://154.9.232.236/mlTW33856.php?id=inews_twn
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台-JUDY 斯玛特" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-JUDY 斯玛特
+https://neibu.pendy.dpdns.org/Smart.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-风云TV
 http://iptv.4666888.xyz/iptv.php?id=20069
+
 
 
 
