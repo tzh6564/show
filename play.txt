@@ -23,14 +23,7 @@
     },
  
  ],
-  "headers": [
-    {
-      "host": "hlsztemgsplive.miguvideo.com",
-      "header": {
-        "User-Agent": "okhttp/3.12.13"
-      }
-    }
-  ],
+
   "proxy": [
     "raw.githubusercontent.com",
     "googlevideo.com",
