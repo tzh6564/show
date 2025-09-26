@@ -29,7 +29,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 http://85.237.206.96:5678/Smart.php?id=tvbs_n
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP SMT
-http://192.168.100.137:5678/Smart.php?id=tvbs_n
+http://192.168.100.137:5678/smart.php?id=tvbs_n
 
 
 
@@ -113,6 +113,7 @@ https://neibu.pendy.dpdns.org/Smart.php?id=inews_twn
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-风云TV
 http://iptv.4666888.xyz/iptv.php?id=20069
+
 
 
 
