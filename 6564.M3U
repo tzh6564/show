@@ -119,11 +119,12 @@ http://iptv.4666888.xyz/iptv.php?id=20069
 
 ####################################################################################################################
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT (家)
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="IPTV",TVBS新聞台-SMT (家)
 http://192.168.100.137:5678/smart.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-BEE" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-BEE (家)
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-BEE" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="IPTV",SKY SPORTS F1-BEE (家)
 http://192.168.100.137:5678/bee.php?id=Sky_Sports_F1_Live_TV
+
 
 
 
