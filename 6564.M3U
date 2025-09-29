@@ -1,8 +1,14 @@
 #EXTM3U
 
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP 4GTV
 http://85.237.206.96:50057/4gtv-4gtv072/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP SMT
+http://85.237.206.96:5678/Smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-LITV
+https://litv.858.qzz.io/litv.php?id=4gtv-4gtv072
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-4GTV
 https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv072
@@ -25,19 +31,13 @@ http://47.91.17.126:20002/Smartv.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台 (梯)
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-WAP SMT
-http://85.237.206.96:5678/Smart.php?id=tvbs_n
 
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT (家)
-http://192.168.100.137:5678/smart.php?id=tvbs_n
-
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-LITV
-https://litv.858.qzz.io/litv.php?id=4gtv-4gtv072
-
-
-##########################################################
+####################################################################################################################
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-WAP BEE" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-WAP BEE
+http://85.237.206.96:5678/bee.php?id=Sky_Sports_F1_Live_TV
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-1080p" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-1080p
 https://7pal.short.gy/ssportsf1
@@ -90,7 +90,7 @@ https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20661
 
 
-##########################################################
+####################################################################################################################
 
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台-SMT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="無綫新聞台",無綫新聞台-SMT
 http://154.9.232.236/mlTW33856.php?id=inews_twn
@@ -117,6 +117,13 @@ https://neibu.pendy.dpdns.org/Smart.php?id=inews_twn
 http://iptv.4666888.xyz/iptv.php?id=20069
 
 
+####################################################################################################################
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="TVBS新聞",TVBS新聞台-SMT (家)
+http://192.168.100.137:5678/smart.php?id=tvbs_n
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1-BEE" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SKY SPORTS F1",SKY SPORTS F1-BEE (家)
+http://192.168.100.137:5678/bee.php?id=Sky_Sports_F1_Live_TV
 
 
 
